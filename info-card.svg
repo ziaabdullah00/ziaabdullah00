@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="410" viewBox="0 0 490 410" role="img"><title>Zia Abdullah — Full-Stack Developer and Technical SEO Specialist</title>
+<rect width="490" height="410" rx="14" fill="#0d1117"/>
+<style>@keyframes reveal{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}.line{animation:reveal .5s both}@media(prefers-reduced-motion:reduce){.line{animation:none}}</style>
+<text x="24" y="34" fill="#39d353" font-size="17" font-family="monospace">zia@github</text>
+<path d="M24 49H466" stroke="#30363d"/>
+<g class="line" style="animation-delay:0.20s" font-family="monospace" font-size="14"><text x="24" y="80" fill="#58a6ff">Name</text><text x="128" y="80" fill="#c9d1d9">Zia Abdullah</text></g>
+<g class="line" style="animation-delay:0.32s" font-family="monospace" font-size="14"><text x="24" y="112" fill="#58a6ff">Role</text><text x="128" y="112" fill="#c9d1d9">Full-Stack Developer</text></g>
+<g class="line" style="animation-delay:0.44s" font-family="monospace" font-size="14"><text x="24" y="144" fill="#58a6ff">Focus</text><text x="128" y="144" fill="#c9d1d9">Technical SEO</text></g>
+<g class="line" style="animation-delay:0.56s" font-family="monospace" font-size="14"><text x="24" y="176" fill="#58a6ff">Stack</text><text x="128" y="176" fill="#c9d1d9">Next.js / React</text></g>
+<g class="line" style="animation-delay:0.68s" font-family="monospace" font-size="14"><text x="24" y="208" fill="#58a6ff">Build</text><text x="128" y="208" fill="#c9d1d9">Modern SaaS products</text></g>
+<g class="line" style="animation-delay:0.80s" font-family="monospace" font-size="14"><text x="24" y="240" fill="#58a6ff"></text><text x="128" y="240" fill="#c9d1d9">AI-powered platforms</text></g>
+<g class="line" style="animation-delay:0.92s" font-family="monospace" font-size="14"><text x="24" y="272" fill="#58a6ff"></text><text x="128" y="272" fill="#c9d1d9">High-performance websites</text></g>
+<g class="line" style="animation-delay:1.04s" font-family="monospace" font-size="14"><text x="24" y="304" fill="#58a6ff">Location</text><text x="128" y="304" fill="#c9d1d9">Lahore</text></g>
+<g class="line" style="animation-delay:1.16s" font-family="monospace" font-size="14"><text x="24" y="336" fill="#58a6ff">Web</text><text x="128" y="336" fill="#c9d1d9">ziaabdullah.com</text></g>
+</svg>
