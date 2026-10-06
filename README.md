@@ -1,28 +1,13 @@
-<div align="center">
+<img src="./profile-terminal.svg" width="860" alt="Zia Abdullah — Full-Stack Developer and Technical SEO Specialist. Building SaaS products, AI platforms, and fast, search-friendly websites with Next.js and React. Lahore, Pakistan." />
 
-### `zia@github ~ $ ./contributions.sh`
+[**Explore my portfolio ↗**](https://www.ziaabdullah.com/) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/zia-abdullah-10a355243/) &nbsp; · &nbsp; [X](https://x.com/ZiaAbdullah14)
 
-<img src="./contrib-heatmap.svg" width="860" alt="Zia Abdullah's contribution calendar, refreshed daily" />
+<br>
 
-<br><br>
+### Recent activity
 
-### `zia@github ~ $ whoami`
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution calendar refreshed daily from GitHub's public data" />
 
-<table>
-<tr>
-<td valign="top"><img src="./zia-ascii.svg" width="370" alt="Animated ASCII portrait of Zia Abdullah" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Full-Stack Developer and Technical SEO Specialist. Next.js, React, SaaS, AI platforms, and high-performance websites. Based in Lahore." /></td>
-</tr>
-</table>
-
-### `zia@github ~ $ ./links.sh`
-
-[Portfolio](https://www.ziaabdullah.com/) · [X / Twitter](https://x.com/ZiaAbdullah14)
-
-Full-Stack Developer · Technical SEO Specialist
-
-</div>
-
-<!-- Maintenance: the contribution calendar refreshes daily through GitHub Actions.
-To update the portrait/card: install Pillow and run python scripts/build_profile.py.
-Design inspired by https://github.com/AVIVASHISHTA29/AVIVASHISHTA29. -->
+<!-- Regenerate the intro: pip install Pillow && python scripts/build_profile.py.
+The activity SVG refreshes daily with GitHub Actions.
+Inspired by https://github.com/AVIVASHISHTA29/AVIVASHISHTA29. -->
