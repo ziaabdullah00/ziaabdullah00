@@ -1,6 +1,6 @@
 {
   "username": "ziaabdullah00",
-  "total": 3,
+  "total": 5,
   "days": [
     {
       "date": "2025-10-05",
@@ -1835,7 +1835,12 @@
     {
       "date": "2026-10-06",
       "level": 4,
-      "count": 3
+      "count": 5
+    },
+    {
+      "date": "2026-10-07",
+      "level": 0,
+      "count": 0
     }
   ]
 }
